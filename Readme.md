@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Oleg4355 Lobanov](https://up.htmlacademy.ru/htmlcss/39/user/1333533).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Комнатная ](https://htmlacademy.ru/profile/id215761).
 
 ---
 
