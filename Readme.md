@@ -2,7 +2,7 @@
 
 * Студент: [Oleg4355 Lobanov](https://up.htmlacademy.ru/htmlcss/39/user/1333533).
 * Наставник: [Екатерина Комнатная ](https://htmlacademy.ru/profile/id215761).
-
+* Сайт: [Мой проект Седона ](https://oleg4355.github.io/1333533-sedona-39/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
